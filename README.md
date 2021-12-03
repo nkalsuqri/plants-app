@@ -1,6 +1,8 @@
 # plants-app
 
 A new Flutter project.
+Test project
+Main screens for plants application by dart and Flutter framework
 
 ## Getting Started
 
