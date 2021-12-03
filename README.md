@@ -5,9 +5,9 @@ Main screens for plants application by dart and Flutter framework
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Welcome to Flutter worlds.
 
-A few resources to get you started if this is your first Flutter project:
+If you a new one , started from her:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
